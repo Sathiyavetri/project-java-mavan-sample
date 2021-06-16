@@ -1,2 +1,2 @@
-# project-java-mavan-pallavi
-By trainer Pallavi
+## Simple Java program with test cases
+By Pallavi Prasad
