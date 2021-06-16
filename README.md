@@ -6,3 +6,7 @@ By Pallavi Prasad
 - MYSQL_USER: root
 - MYSQL_PASSWORD: password
 - MYSQL_DATABASE: sample
+
+### Commands
+- mvn exec:java -Dexec.mainClass=com.sample.App
+- mvn test
